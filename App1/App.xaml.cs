@@ -34,6 +34,7 @@ namespace App1
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
+            // comment
         }
 
         /// <summary>
